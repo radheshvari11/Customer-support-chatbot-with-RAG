@@ -1,0 +1,14 @@
+Q: What is your return policy?
+A: You can return any product within 30 days of purchase with a receipt.
+
+Q: What are your working hours?
+A: Our support team is available Monday to Friday, 9 AM to 6 PM.
+
+Q: How do I track my order?
+A: Visit our website, go to Orders section, and enter your order ID.
+
+Q: Do you offer free shipping?
+A: Yes, free shipping is available on orders above $50.
+
+Q: How do I contact support?
+A: You can email us at support@company.com or call 1-800-123-4567.
